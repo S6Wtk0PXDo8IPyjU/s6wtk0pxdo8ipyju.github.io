@@ -1,0 +1,36 @@
+{
+    "webcredentials": {
+        "apps": [
+            "HRQA48QJN8.com.apricotAI.MindgraspAI"
+        ]
+    },
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "HRQA48QJN8.com.apricotAI.MindgraspAI"
+                ],
+                "components": [
+                    {
+                        "/": "/",
+                    },
+                    {
+                        "/": "/signup",
+                    },
+                    {
+                        "/": "/home/upload",
+                    },
+                    {
+                        "/": "/home/library",
+                    },
+                    {
+                        "/": "/home/library/*",
+                    },
+                    {
+                        "/": "/dashboard/*",
+                    }
+                ]
+            }
+        ]
+    }
+}
